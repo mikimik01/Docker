@@ -12,4 +12,4 @@ Następnie, należy otworzyć projekt w kolejnym oknie terminalu i wykonać nast
 - source install/setup.bash
 - ros2 run model_paczka publisher
   
-Program powinien wyświetlić puste okno konsoli oraz wizualizacja robota turtlebot w programie Gaeebo, który zacznie poruszać się w górę, lub w dół, w zależności od klikniętej połowy ekranu otwartego okna konsoli. Ekran konsoli podzielony jest na połowy horyzontalnie.
+Program powinien wyświetlić puste okno konsoli oraz wizualizacja robota turtlebot w programie Gazebo, który zacznie poruszać się w górę, lub w dół, w zależności od klikniętej połowy ekranu otwartego okna konsoli. Ekran konsoli podzielony jest na połowy horyzontalnie.
