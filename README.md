@@ -1,6 +1,6 @@
 #LINUX
 
-Aby uruchmić projekt należy otworzyć projekt (katalog "ros2_ws") w terminalu, a następnie wpisać następujące komendy:
+Aby uruchmić projekt należy otworzyć katalog "ros2_ws" w terminalu, a następnie wpisać następujące komendy:
 - source/opt/ros/humble/setup.bash
 - source install/setup.bash
 - export TURTLEBOT3_MODEL=burger
