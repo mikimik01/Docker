@@ -1,4 +1,4 @@
-#LINUX
+# LINUX
 
 Aby uruchmić projekt należy otworzyć katalog "ros2_ws" w terminalu, a następnie wpisać następujące komendy:
 - source/opt/ros/humble/setup.bash
